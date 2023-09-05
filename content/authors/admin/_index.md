@@ -34,15 +34,16 @@ interests:
 - Rural and Urban Sociology 
 - Social Policy
 
+# Education to show in About widget
 education:
  courses: 
- - course: PhD in sociology
+ - Course: PhD in sociology
    instituion: The Ohio State University
    year: 2023
- - course: MA in sociology
+ - Course: MA in sociology
    institution: The Ohio State University
    year: 2020
- - course: BA in sociology | BA in economics 
+ - Course: BA in sociology | BA in economics 
    institution: Hobart and William Smith Colleges
    year: 2018
 

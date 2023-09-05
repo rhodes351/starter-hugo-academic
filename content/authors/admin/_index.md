@@ -26,17 +26,17 @@ about me:
 
 # Interests to show in About widget
 interests:
-- Inequality, Poverty, & Mobility
-- Economic Sociology
-- Credit, Wealth, & Debt
-- Work and Labor Markets
-- Demography
-- Rural and Urban Sociology 
-- Social Policy
+  - Inequality, Poverty, & Mobility
+  - Economic Sociology
+  - Credit, Wealth, & Debt
+  - Work and Labor Markets
+  - Demography
+  - Rural and Urban Sociology 
+  - Social Policy
 
 # Education to show in About widget
 education:
-courses: 
+ courses: 
   - course: PhD in Sociology
     institution: Ohio State University
     year: 2023

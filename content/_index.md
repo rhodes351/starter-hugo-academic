@@ -13,6 +13,6 @@ sections:
       username: admin
 
   - block: research
-    id: research
+    id: post
       title: Current Research Projects
 ---

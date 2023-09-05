@@ -37,15 +37,15 @@ interests:
 # Education to show in About widget
 education:
 courses: 
-- course: PhD in Sociology
-  institution: Ohio State University
-  year: 2023
-- course: MA in Sociology
-  institution: Ohio State University
-  year: 2020
-- course: BA in Sociology | BA in Economics 
-  institution: Hobart and William Smith Colleges
-  year: 2018
+  - course: PhD in Sociology
+    institution: Ohio State University
+    year: 2023
+  - course: MA in Sociology
+    institution: Ohio State University
+    year: 2020
+  - course: BA in Sociology | BA in Economics 
+    institution: Hobart and William Smith Colleges
+    year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons

@@ -5,9 +5,9 @@ date: 2022-10-24
 type: landing
 
 sections:
- # - block: hero
-    content:
-      title: Hugo Academic Theme
+#  - block: hero
+#    content:
+#      title: Hugo Academic Theme
       image:
         filename: hero-academic.png
       cta:

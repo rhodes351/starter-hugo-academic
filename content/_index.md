@@ -29,4 +29,6 @@ sections:
       filters:
         folders:
           - post
+      sort_by: 'Title'
+      sort_ascending: true
 ---

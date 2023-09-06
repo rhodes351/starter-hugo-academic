@@ -18,6 +18,8 @@ sections:
       title: Current Research Projects
       text:
       filters:
+      show_date: false
+      reading_time: false
         folders:
           - post
 

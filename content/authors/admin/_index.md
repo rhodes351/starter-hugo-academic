@@ -51,7 +51,7 @@ education:
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-# social:
+social:
   # - icon: envelope
     icon_pack: fas
     link: '/#contact'
@@ -61,11 +61,12 @@ education:
     label: Follow me on Twitter
     display:
       header: true
-  # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.com/citations?user=0TytEewAAAAJ&hl=en
-    icon_pack: fab
-    link: https://github.com/gcushen
+  - icon: graduation-cap
+    # Alternatively, use `google-scholar` icon from `ai` icon pack
+      icon_pack: fas
+      link: https://scholar.google.com/citations?user=0TytEewAAAAJ&hl=en
+  # icon_pack: fab
+  # link: https://github.com/gcushen
   # - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
@@ -83,9 +84,9 @@ education:
 highlight_name: true
 ---
 
-I'm a Postdoctoral Scholar at the Institute for Research on Poverty at the University of Wisconsin-Madison. My research focuses on the causes and consequences of economic inequality and financial insecurity for individuals, families, and communities. Much of my work brings a political economy, demographic, and/or spatial lens to questions related to inequality, poverty, and mobility. I'm especially interested in how inequalities accumulate over the life course and across different market contexts, as well as the potential for social institutions and social policies to ameliorate them. You can learn more about my current research projects below.
+I'm a Postdoctoral Scholar at the Institute for Research on Poverty at the University of Wisconsin-Madison. My research focuses on the causes and consequences of economic inequality and financial insecurity for individuals, families, and communities. Much of my work brings a political economy, demographic, and/or spatial lens to questions related to inequality, poverty, and mobility. I'm especially interested in how inequalities accumulate over the life course and across different market contexts, as well as the potential for social institutions and social policies to ameliorate them. You can learn more about some of my recent research projects below.
 
-At the Institute for Research on Poverty, I'm working on an ongoing project funded by the National Institutes of Health that leverages large-N administrative data to understand the effects of social policies on household debt and family wellbeing among vulnerable populations in the United States.
+At the Institute for Research on Poverty, I'm collaborating with an interdisciplinary group of scholars on a project funded by the National Institutes of Health that leverages large-N administrative data to understand the effects of social policies on household debt and family wellbeing among vulnerable populations in the United States.
 
 Prior to arriving at the University of Wisconsin-Madison, I received my PhD in sociology from Ohio State University. My undergraduate degrees are from Hobart and William Smith Colleges in Geneva, NY.
 {style="text-align: justify;"}

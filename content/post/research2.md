@@ -2,6 +2,8 @@
 title: Employment Quality and Racial-Ethnic Poverty Gaps in Later Life
 show_date: false
 reading_time: false
+share: false
+profile: false
 banner:
   image: "OLDER.png"
 ---

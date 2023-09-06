@@ -52,9 +52,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: graduation-cap
-     icon_pack: fas
-     link: https://scholar.google.com/citations?user=0TytEewAAAAJ&hl=en
+ - icon: graduation-cap
+   icon_pack: fas
+   link: https://scholar.google.com/citations?user=0TytEewAAAAJ&hl=en
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 # email: ''

@@ -55,7 +55,6 @@ social:
  - icon: google-scholar
    icon_pack: ai
    link: https://scholar.google.com/citations?user=0TytEewAAAAJ&hl=en
-   text: Google Scholar Profile
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 # email: ''

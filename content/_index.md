@@ -30,5 +30,5 @@ sections:
         folders:
           - post
       sort_by: 'Title'
-      sort_ascending: true
+      sort_ascending: false
 ---

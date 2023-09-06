@@ -2,6 +2,8 @@
 title: Labor Unions, Debt, and Financial Inclusion in Young Adulthood
 show_date: false
 reading_time: false
+share: false
+profile: false
 banner:
   image: "UNION.png"
 ---

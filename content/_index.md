@@ -14,8 +14,8 @@ sections:
 
   - block: hero
     content:
-    image:
-      filename: image2.jpg
+     image:
+       filename: image2.jpg
 
   - block: collection
     id: research

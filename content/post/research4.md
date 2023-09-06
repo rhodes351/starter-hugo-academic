@@ -2,6 +2,8 @@
 title: Housing Wealth, Debt, and Health and Wellbeing among Older Homeowners
 show_date: false
 reading_time: false
+share: false
+profile: false
 banner:
   image: "CRN.png"
 ---

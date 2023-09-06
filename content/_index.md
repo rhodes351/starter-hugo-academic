@@ -20,5 +20,4 @@ sections:
       filters:
         folders:
           - post
-
 ---

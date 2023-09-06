@@ -11,7 +11,6 @@ sections:
       title: About Me
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-      image: image2.jpg
 
   - block: collection
     id: research

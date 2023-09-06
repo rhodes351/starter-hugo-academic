@@ -7,8 +7,8 @@
 
 appearance:
   theme_day: 'ocean'
-  theme_night:
-  font: 'earth'
+  theme_night: 'ocean'
+  font: 'classic'
   font_size: L
 
 # SEO

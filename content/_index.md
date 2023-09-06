@@ -17,9 +17,9 @@ sections:
      image:
        filename: image2.jpg
      text: |-
-       Much of my current research asks how power and policies shape economic inequality. One strand of research focuses on labor market inequality and the returns to worker 
-       power in the United States. Another strand of research considers the institutional and relational sources of disparities in credit, debt, wealth, and financial markets. 
-       My published work appears in Rural Sociology, The Sociological Quarterly, Social Science & Medicine, and Applied Economic Perspectives and Policy.
+       My research asks how power and policies shape economic inequality. One strand of research focuses on labor market inequality and the returns to worker power in the United 
+       States. Another strand of research considers the institutional and relational sources of disparities in credit, debt, wealth, and financial markets. My published work 
+       appears in Rural Sociology, The Sociological Quarterly, and Social Science & Medicine, among other outlets.
 
   - block: collection
     id: research

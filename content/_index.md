@@ -18,8 +18,8 @@ sections:
        filename: image2.jpg
      text: |-
        My research asks how power and policy shapes inequality. One strand of research focuses on labor market inequality and the returns to worker power. Another   
-       strand considers the institutional and relational sources of disparities in financial markets. My published work has appeared in Rural Sociology,
-       The Sociological Quarterly, and Social Science & Medicine, among other outlets.
+       strand considers the institutional and relational sources of disparities in financial markets. My published work has appeared in Social Problems,
+       Nature Human Behavior, and Journal of Health and Social Behavior, among other outlets.
 
   - block: collection
     id: research

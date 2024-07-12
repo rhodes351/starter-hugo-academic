@@ -18,7 +18,7 @@ role: Postdoctoral Scholar
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Institute for Research on Poverty | University of Wisconsin-Madison
+  - name: Institute for Research on Poverty | University of Wisconsin–Madison
     url: https://www.irp.wisc.edu/
 
 # Short bio (displayed in user profile at end of posts)
@@ -63,9 +63,9 @@ social:
 highlight_name: true
 ---
 
-I'm a Postdoctoral Scholar at the Institute for Research on Poverty at the University of Wisconsin-Madison. My research focuses on the causes and consequences of economic inequality and financial insecurity for individuals, families, and communities. Much of my work brings a political economy, demographic, and/or spatial lens to questions related to inequality, poverty, and mobility. I'm especially interested in how inequalities accumulate over the life course and across different market contexts, as well as the potential for social institutions and social policies to ameliorate them. You can learn more about some of my recent research projects below.
+I'm a Postdoctoral Scholar at the Institute for Research on Poverty at the University of Wisconsin–Madison. My research focuses on the causes and consequences of economic inequality and financial insecurity for individuals, families, and communities. Much of my work brings a political economy, demographic, and/or spatial lens to questions related to inequality, poverty, and mobility. I'm especially interested in how inequalities accumulate over the life course and across different market contexts, as well as the potential for social institutions and social policies to ameliorate inequalities. You can learn more about some of my recent and ongoing research projects below.
 
-At the Institute for Research on Poverty, I'm collaborating with an interdisciplinary group of scholars on a project funded by the National Institutes of Health that leverages large-N administrative data to understand the effects of social policies on household debt and family wellbeing among vulnerable populations in the United States.
+At the Institute for Research on Poverty, I'm collaborating with an interdisciplinary group of scholars on a project funded by the National Institutes of Health that leverages large-N proprietary credit bureau and administrative data to understand the relationships between social policies, household debt, and wellbeing among socioeconomically vulnerable populations in the United States.
 
-Prior to arriving at the University of Wisconsin-Madison, I received my PhD in sociology from Ohio State University. My undergraduate degrees are from Hobart and William Smith Colleges in Geneva, NY.
+Prior to arriving at the University of Wisconsin–Madison, I received my PhD in sociology from Ohio State University. My undergraduate degrees are from Hobart and William Smith Colleges in Geneva, NY.
 {style="text-align: justify;"}

@@ -1,5 +1,5 @@
 ---
-title: Current Research Projects
+title: Recent and Ongoing Research Projects
 cms_exclude: true
 
 # View.

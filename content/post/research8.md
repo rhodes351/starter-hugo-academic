@@ -1,1 +1,10 @@
-
+---
+title: The Right to Work and Economic Dynamism
+show_date: false
+reading_time: false
+share: false
+profile: false
+banner:
+  image: "CountyObsUniqueCount_AllCountiesonBorders_RTWDiff_3 May 2024.png"
+---
+Do Right to Work (RTW) laws unleash economic dynamism? RTW has been the focus of political contestation for 3/4 of a century and has been an important contributor to the geographically uneven decline of union membership since the labor movement's peak in the mid-1950s. Although the specific content of RTW laws--the loosening of union security agreements, or requirements for some form of material buy in to unions as a condition of employment--may appear to be narrowly targeted to a small group of potential hires at unionized firms, both opponents and proponents of RTW have argued that its stakes and implications stretch to be generally consequential for the labor market. Most prior studies of RTW focus on outcomes that are either standard for stratification research or else are directly tied to issues of union membership and power. However, these studies sidestep a critical issue argued by proponents of RTW laws: economic dynamism, or the productive churn and adaptation to changing economic conditions that allow local economies to thrive in changing economic conditions. In an ongoing collaboration, Tom VanHeuvelen and I are examining the impacts of state RTW laws on U.S. county economic dynamism using data from the Census Bureau's County Business Patterns from 1946-2019. Leveraging a spatial regression discontinuity design, our preliminary results show weak evidence that RTW laws are associated with increases in county employment or establishments. Instead, we find that non-RTW states responded to the competative pressures of weaker labor laws in RTW states by offering more tax incentives to attract and retain employers without directly challenging labor. These results challenge the standard union monopoly model and institutionalist accounts and instead support an alternative theory of spatial relationality where states work within political constraints to respond to the changing policy environments of neighboring states in ways that sustain economic dynamism.

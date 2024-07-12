@@ -1,5 +1,5 @@
 ---
-title: Current Research Projects
+title: Research Projects
 ---
 **Student Debt and Geographic Disadvantage**
 

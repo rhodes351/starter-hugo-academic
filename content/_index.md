@@ -24,7 +24,7 @@ sections:
   - block: collection
     id: research
     content:
-      title: Recent Research Projects
+      title: Research Projects
       text:
       filters:
         folders:

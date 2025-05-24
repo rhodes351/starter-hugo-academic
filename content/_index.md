@@ -17,8 +17,8 @@ sections:
      image:
        filename: image2.jpg
      text: |-
-       My research asks how power and social policy shapes economic inequality. One strand of research focuses on labor market inequality and the returns to worker power. Another   
-       strand examines the institutional and relational sources of inequalities in credit, wealth, and debt. My published work has appeared in Social Forces, Social Problems,
+       My research asks how power and policy shapes economic inequality. One strand of research focuses on labor markets and the returns to worker power. Another   
+       strand examines the institutional and relational sources of inequalities in credit markets. My published work has appeared in Social Forces, Social Problems,
        and Nature Human Behaviour, among other outlets.
 
   - block: collection

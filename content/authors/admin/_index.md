@@ -62,7 +62,7 @@ social:
 highlight_name: true
 ---
 
-I'm an assistant professor in the Department of Sociology at Purdue University. My research focuses on the causes and consequences of economic inequality and financial insecurity for individuals, families, and communities. Much of my work brings a political economy, demographic, and/or spatial lens to questions related to inequality, poverty and mobility. I'm especially interested in how inequalities accumulate over the life course and across different market contexts, as well as the potential for institutions and social policies to ameliorate inequalities and financial hardship. You can learn more about some of my recent and ongoing research projects below.
+I'm an Assistant Professor of Sociology at Purdue University. My research focuses on the causes and consequences of economic inequality and financial insecurity for individuals, families, and communities. Much of my work brings a political economy, demographic, and/or spatial lens to questions related to inequality, poverty and mobility. I'm especially interested in how inequalities accumulate over the life course and across different market contexts, as well as the potential for institutions and social policies to ameliorate inequalities. You can learn more about some of my recent research projects below.
 
-Prior to arriving at Purdue, I was a postdoctoral scholar at the University of Wisconsin–Madison's Institute for Research on Poverty. I received my PhD in sociology from Ohio State University, and my undergraduate degrees from Hobart and William Smith Colleges in Geneva, NY.
+Prior to arriving at Purdue, I was a postdoctoral scholar at the University of Wisconsin's Institute for Research on Poverty. I received my PhD from Ohio State University, and my undergraduate degrees from Hobart and William Smith Colleges.
 {style="text-align: justify;"}

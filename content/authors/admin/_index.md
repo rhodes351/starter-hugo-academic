@@ -19,7 +19,7 @@ role: Assistant Professor
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Department of Sociology | Purdue University
-    url: cla.purdue.edu/academic/sociology/index.html
+    url: https://cla.purdue.edu/academic/sociology/index.html
 
 # Short bio (displayed in user profile at end of posts)
 about me: 

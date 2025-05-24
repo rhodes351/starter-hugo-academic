@@ -14,24 +14,23 @@ last_name: Rhodes
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Scholar
+role: Assistant Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Institute for Research on Poverty | University of Wisconsin–Madison
-    url: https://www.irp.wisc.edu/
+  - name: Department of Sociology | Purdue University
+    url: cla.purdue.edu/academic/sociology/index.html
 
 # Short bio (displayed in user profile at end of posts)
 about me: 
 
 # Interests to show in About widget
 interests:
-  - Inequality, Poverty, & Mobility
+  - Inequality, Poverty & Mobility
   - Economic Sociology
-  - Credit, Wealth, & Debt
+  - Credit, Wealth & Debt
   - Work and Labor Markets
   - Demography
-  - Rural and Urban Sociology 
   - Social Policy
 
 # Education to show in About widget
@@ -63,9 +62,7 @@ social:
 highlight_name: true
 ---
 
-I'm a Postdoctoral Scholar at the Institute for Research on Poverty at the University of Wisconsin–Madison. My research focuses on the causes and consequences of economic inequality and financial insecurity for individuals, families, and communities. Much of my work brings a political economy, demographic, and/or spatial lens to questions related to inequality, poverty, and mobility. I'm especially interested in how inequalities accumulate over the life course and across different market contexts, as well as the potential for social institutions and social policies to ameliorate inequalities. You can learn more about some of my recent and ongoing research projects below.
+I'm an assistant professor in the Department of Sociology at Purdue University in West Lafayette, IN. My research focuses on the causes and consequences of economic inequality and financial insecurity for individuals, families, and communities. Much of my work brings a political economy, demographic, and/or spatial lens to questions related to inequality, poverty and mobility. I'm especially interested in how inequalities accumulate over the life course and across different market contexts, as well as the potential for institutions and social policies to ameliorate inequalities and financial hardship. You can learn more about some of my recent and ongoing research projects below.
 
-At the Institute for Research on Poverty, I'm collaborating with an interdisciplinary group of scholars on a project funded by the National Institutes of Health that leverages large-N proprietary credit bureau and administrative data to understand the relationships between social policies, household debt, and wellbeing among socioeconomically vulnerable populations in the United States.
-
-Prior to arriving at the University of Wisconsin–Madison, I received my PhD in sociology from Ohio State University. My undergraduate degrees are from Hobart and William Smith Colleges in Geneva, NY.
+Prior to arriving at Purdue University, I was a postdoctoral scholar at the University of Wisconsin–Madison's Institute for Research on Poverty. I received my PhD in sociology from Ohio State University, and my undergraduate degrees from Hobart and William Smith Colleges in Geneva, NY.
 {style="text-align: justify;"}

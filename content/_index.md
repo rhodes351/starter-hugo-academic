@@ -21,7 +21,7 @@ sections:
   - block: collection
     id: research
     content:
-      title: Research Projects
+      title:
       text:
       filters:
         folders:

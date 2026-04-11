@@ -28,9 +28,9 @@ about me:
 interests:
   - Inequality, Poverty & Mobility
   - Economic Sociology
-  - Credit, Wealth & Debt
-  - Work and Labor Markets
-  - Demography
+  - Organizations, Occupations & Work
+  - Labor & Labor Movements
+  - Social Demography
   - Social Policy
 
 # Education to show in About widget

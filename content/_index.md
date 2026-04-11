@@ -16,9 +16,7 @@ sections:
     content:
      image:
        filename: image2.jpg
-     text: |-
-       My research asks how social policies and institutions shape economic inequality, with a focus on labor markets and credit, wealth, and debt. My research has been published in American Sociological Review, Social Forces, Social Problems,
-       and Nature Human Behaviour.
+     text:
 
   - block: collection
     id: research

@@ -62,7 +62,5 @@ social:
 highlight_name: true
 ---
 
-I'm an assistant professor of sociology at Purdue University. My research focuses on the causes and consequences of economic inequality and financial insecurity for individuals, families, and communities. Much of my work brings a political economy, demographic, and/or spatial lens to questions related to inequality, poverty and mobility. I'm especially interested in how inequalities accumulate over the life course and across different market contexts, as well as the potential for institutions and social policies to ameliorate inequalities and hardships. You can learn more about my recent and ongoing research projects below.
-
-Prior to arriving at Purdue, I was a Postdoctoral Scholar at the University of Wisconsin's Institute for Research on Poverty. I received my PhD from Ohio State University and my BA degrees from Hobart and William Smith Colleges.
+I'm an assistant professor of sociology and Faculty Associate of the Center on Aging and the Life Course at Purdue University. I study how social institutions and social policy shapes economic inequality, poverty, and mobility. My current research focuses on income support policies and credit use among lower-income populations, the impacts of U.S. labor policy on worker compensation and job growth, and the consequences of wealth, debt, and financial insecurity for health and well-being across the life course. My research has been published in American Sociological Review, Social Forces, Social Problems, and Nature Human Behaviour.
 {style="text-align: justify;"}

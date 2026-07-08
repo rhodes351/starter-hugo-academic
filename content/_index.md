@@ -13,12 +13,11 @@ sections:
       username: admin
 
   - block: hero
+    background:
+     image: "image2.jpg"
     content:
      image:
-       filename: <div style="display: flex; justify-content: space-between;">
-                 {{< figure src="/media/image2.jpg" width="48%" >}}
-                 {{< figure src="/media/image3.jpg" width="48%" >}}
-                 </div>
+       filename:
      text:
 
   - block: collection

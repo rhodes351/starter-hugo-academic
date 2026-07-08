@@ -28,4 +28,15 @@ sections:
           - post
       sort_by: 'Title'
       sort_ascending: false
+
+    - block: collection
+    id: replication
+    content:
+      title:
+      text:
+      filters:
+        folders:
+          - replication
+      sort_by: 'Title'
+      sort_ascending: false
 ---

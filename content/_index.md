@@ -16,6 +16,7 @@ sections:
     content:
      image:
        filename: image2.jpg
+       full_width: true
      text: false
 
   - block: collection

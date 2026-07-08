@@ -15,7 +15,10 @@ sections:
   - block: hero
     content:
      image:
-       filename: image2.jpg
+       filename: <div style="display: flex; justify-content: space-between;">
+                 {{< figure src="/media/image2.jpg" width="48%" >}}
+                 {{< figure src="/media/image3.jpg" width="48%" >}}
+                 </div>
      text:
 
   - block: collection

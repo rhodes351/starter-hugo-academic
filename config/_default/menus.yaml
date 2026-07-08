@@ -14,7 +14,7 @@ main:
     url: 'uploads/cv.pdf'
     weight: 30
   - name: Replication
-    url: 'content/repo/'
+    url: 'repo/'
     weight: 40
  # - name: Talks
  #   url: '#talks'

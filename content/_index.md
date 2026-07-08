@@ -15,7 +15,7 @@ sections:
   - block: hero
     content:
      image:
-       filename: ![](image2.jpg)![](image4.jpg)
+       filename: [](image2.jpg)[](image4.jpg)
      text:
 
   - block: collection

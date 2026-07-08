@@ -15,7 +15,7 @@ sections:
   - block: hero
     content:
      image:
-       filename: "image4.jpg"
+       filename: image4.jpg
      text:
 
   - block: collection

@@ -16,7 +16,7 @@ sections:
     content:
      image:
        filename: image2.jpg
-     text:
+     text: false
 
   - block: collection
     id: research

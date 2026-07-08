@@ -4,13 +4,10 @@ show_date: false
 reading_time: false
 share: false
 profile: false
-
 banner:
   image: false
   caption: false
-
 ---
-
 -"For What Benefit? State Right to Work Laws and Employer-Provided Retirement and Health Insurance Benefits." 2026. *Social Forces*, OnlineFirst \[repo file](https://github.com/rhodes351/SF\_RTW\_Benefits)
 
 -"State Right to Work Laws and Economic Dynamism in U.S. Counties, 1946 to 2019." 2026. *American Sociological Review*, Online First (w/ Tom VanHeuvelen) \[repo file](https://github.com/rhodes351/ASR\_26\_RTW)

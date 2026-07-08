@@ -1,5 +1,5 @@
 ---
-title: false
+title: Links to Replication Materials
 show_date: false
 reading_time: false
 share: false

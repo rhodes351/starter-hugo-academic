@@ -36,7 +36,7 @@ sections:
       text:
       filters:
         folders:
-          - replication
+          - repo
       sort_by: 'Title'
       sort_ascending: false
 ---

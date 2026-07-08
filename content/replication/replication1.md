@@ -4,7 +4,7 @@ show_date: false
 reading_time: false
 share: false
 profile: false
-banner: false
+banner:
   image: false
   caption: false
 ---

@@ -1,8 +1,7 @@
 ---
 title: Replication Materials
 type: "landing"
-banner:
-  image: "image3.jpg"
+
 # View.
 #   1 = List
 #   2 = Compact

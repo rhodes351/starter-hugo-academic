@@ -14,7 +14,7 @@ sections:
 
   - block: hero
     background:
-     image: "image2.jpg"
+     image: ![](images/image2.jpg)![](images/image3.jpg)
     content:
      image:
        filename:

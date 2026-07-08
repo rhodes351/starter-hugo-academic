@@ -14,7 +14,7 @@ sections:
 
   - block: hero
     background:
-     image: 'assets/media/image2.jpg'
+     image: "image4.jpg"
     content:
      image:
        filename:

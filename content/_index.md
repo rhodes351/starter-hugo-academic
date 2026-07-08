@@ -13,11 +13,9 @@ sections:
       username: admin
 
   - block: hero
-    background:
-     image: "image4.jpg"
     content:
      image:
-       filename:
+       filename: "image4.jpg"
      text:
 
   - block: collection

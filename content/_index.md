@@ -16,7 +16,7 @@ sections:
     content:
      image:
        filename: image2.jpg
-     text: Recent and Ongoing Research Projects
+     text: Recent and Ongoing Research
 
   - block: collection
     id: research

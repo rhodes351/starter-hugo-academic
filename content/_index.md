@@ -17,7 +17,7 @@ sections:
       title: Recent and Ongoing Research Projects
       image:
        filename: image2.jpg
-      text: Click on the links below to learn more about some of my recent projects...
+      text: Click on the links below to learn more about some of my recent research projects...
 
   - block: collection
     id: research

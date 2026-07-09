@@ -62,5 +62,5 @@ social:
 highlight_name: true
 ---
 
-I'm an assistant professor of sociology and Faculty Associate of the Center on Aging and the Life Course at Purdue University. I study how institutions and social policies shape economic inequality, poverty, and social mobility. My current research focuses on income support policies and credit use among lower-income populations, the impacts of unions and labor policy on worker compensation and job growth, and the consequences of wealth, debt, and financial insecurity for health and well-being. I have published in journals such as the American Sociological Review, Social Forces, Social Problems, and Nature Human Behaviour.
+I'm an assistant professor of sociology and Faculty Associate of the Center on Aging and the Life Course at Purdue University. My research focuses on income support policies and credit use among vulnerable populations, the impacts of unions and labor policy on worker compensation and job growth, and the consequences of wealth, debt, and financial insecurity for health and well-being across the life course. I have published in journals such as the American Sociological Review, Social Forces, Social Problems, and Nature Human Behaviour.
 {style="text-align: justify;"}

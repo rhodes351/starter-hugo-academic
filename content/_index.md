@@ -14,9 +14,10 @@ sections:
 
   - block: hero
     content:
-     image:
+      title: Recent and Ongoing Research Projects
+      image:
        filename: image2.jpg
-     text: Recent and Ongoing Research
+      text:
 
   - block: collection
     id: research

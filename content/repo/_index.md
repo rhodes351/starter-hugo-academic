@@ -16,9 +16,9 @@ show_date: false
 #  image: 
 ---
 
-"For What Benefit? State Right to Work Laws and Employer-Provided Retirement and Health Insurance Benefits." 2026. *Social Forces*, OnlineFirst [replication file](https://github.com/rhodes351/SF\_RTW\_Benefits)
+"For What Benefit? State Right to Work Laws and Employer-Provided Retirement and Health Insurance Benefits." 2026. *Social Forces*, OnlineFirst [replication file](https://github.com/rhodes351/SF_RTW_Benefits)
 
-"State Right to Work Laws and Economic Dynamism in U.S. Counties, 1946 to 2019." 2026. *American Sociological Review*, Online First (w/ Tom VanHeuvelen) [replication file](https://github.com/rhodes351/ASR\_26\_RTW)
+"State Right to Work Laws and Economic Dynamism in U.S. Counties, 1946 to 2019." 2026. *American Sociological Review*, Online First (w/ Tom VanHeuvelen) [replication file](https://github.com/rhodes351/ASR_26_RTW)
 
 "Unsecured Credit and the Social Safety Net in U.S. States." 2026. *American Sociological Review* 92(2):349-377 (w/ Davon Norris, Jason Houle, Rachel Dwyer, Sarah Bruch, and Lawrence Berger) [replication file](https://github.com/OSU-UW-CCP/State-Safety-Net-ASR26)
 

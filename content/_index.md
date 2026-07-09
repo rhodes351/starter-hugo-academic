@@ -17,7 +17,7 @@ sections:
       title: My Research
       image:
        filename: image2.jpg
-      text: My research asks how social institutions and policies shape inequality, poverty and mobility processes. One strand focuses on worker power and labor market inequality. Another   
+      text: My research asks how social institutions and policies shape inequality, poverty and social mobility. One strand focuses on worker power and labor market inequality. Another   
        strand examines the causes and consequences of household credit, wealth, and debt. Click on the links below to learn more about some of my recent projects...
 
   - block: collection

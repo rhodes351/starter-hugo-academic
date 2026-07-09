@@ -11,7 +11,8 @@ type: "landing"
 # Optional header image (relative to `static/media/` folder).
 header:
   caption:
-  image: image3.jpg
+  image: 
+    filename: image3.jpg
 ---
 
 "For What Benefit? State Right to Work Laws and Employer-Provided Retirement and Health Insurance Benefits." 2026. *Social Forces*, OnlineFirst [replication file](https://github.com/rhodes351/SF\_RTW\_Benefits)

@@ -3,6 +3,7 @@ title: Replication Materials
 type: "landing"
 image: 
   filename: image3.jpg
+show_date: false
 # View.
 #   1 = List
 #   2 = Compact

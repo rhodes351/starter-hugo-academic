@@ -13,16 +13,10 @@ sections:
       username: admin
 
   - block: hero
-    background:
-     image:
-       filename: image2.jpg
-       full_width: true
-       background_size: cover
     content:
-    # image:
-    #   filename: image2.jpg
-    #   full_width: true
-    # text: false
+     image:
+     filename: image2.jpg
+      text: false
 
   - block: collection
     id: research

@@ -13,10 +13,10 @@ sections:
       username: admin
 
   - block: hero
-     image:
-       filename: "image2.jpg"
-     content:
-       text: false
+    image:
+     filename: "image2.jpg"
+    content:
+     text: false
 
   - block: collection
     id: research

@@ -7,6 +7,6 @@ profile: false
 banner:
   image: "OLDER.png"
 ---
-with Lora A. Phillips
-
 Older Americans represent an increasing share of the nation's poor and racial-ethnic inequality in later life poverty is persistent. While lack of employment is often cited as a structural source of racial-ethnic poverty inequalities, surprisingly little is known about the role of employment quality in maintaining racial-ethnic poverty gaps. Drawing on theories of the structural sources of poverty and life course cumulative disadvantage, we use Health and Retirement Study data to decompose the proportion of the Black-White and Hispanic-White poverty gaps among older adults that can be attributed to inequalities in employment quality across multiple dimensions. This paper was published in _[Social Problems](https://academic.oup.com/socpro/advance-article/doi/10.1093/socpro/spae040/7726916)._
+
+with Lora A. Phillips

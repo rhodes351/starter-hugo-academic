@@ -15,7 +15,7 @@ sections:
   - block: hero
     content:
      image:
-     filename: image2.jpg
+     filename: "image2.jpg"
       text: false
 
   - block: collection

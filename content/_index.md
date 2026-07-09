@@ -34,5 +34,4 @@ sections:
           - post
       sort_by: 'Title'
       sort_ascending: false
-
 ---

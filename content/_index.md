@@ -14,11 +14,11 @@ sections:
 
   - block: hero
     content:
-      title: About My Research
+      title: My Research
       image:
        filename: image2.jpg
       text: My research asks how institutions and policy shapes inequality, poverty and mobility processes. One strand of research focuses on worker power and labor market inequality. Another   
-       strand examines the causes and consequences of household credit, wealth, and debt. Click on the links below to learn more about some of my recent research projects...
+       strand examines the causes and consequences of household credit, wealth, and debt. Click on the links below to learn more about some of my recent projects...
 
   - block: collection
     id: research
